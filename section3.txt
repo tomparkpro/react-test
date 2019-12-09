@@ -1,0 +1,7 @@
+1. Set up dev env
+    - Install nodejs from nodes.org cmd> node -v
+    - Install yarn cmd> sudo npm install -g yarn cmd> yarn —version
+    - Install live-server cmd> yarn global add live-server 안되면 cmd> npm install -g live-server cmd> live-server -v
+    - JavaScript compiler : https://babeljs.io/
+    - Setting up Babel
+2.     
